@@ -1,6 +1,6 @@
 # Hello, I'm Joseph (he/him/his)
-_*Professional software engineer, amatrue musician and maker*_
+_*Professional software architect, amateur musician and maker*_
 
-I am currently a Staff Software Engineer doing DevSecOps work for [Code42](code42.com), building highly performant and resilliant cloud-based cyber security software and infrastructure. I used to work in the healthcare industry building software to help health plans correct incorrect prescription rejections and detect prescription fraud.
+I am a cloud architect for the Minnesota Pollution Control Agency, helping the build and maintain the many apps and tools that the scientist here use to monitor and protect the environment of Minnesota. I formerly worked as a Staff Engineer at Code42 building industry leading backup and recover as well as insider threat detection. Before that I worked in the healthcare industry writing software to help health plans correct incorrect prescription rejections and detect prescription fraud.
 
-In my "free time" I have been serving as a member of the board of directors and 3D Lab manager at [Twin Cities Maker](tcmaker.org), a local 501c3 non-profit [makerspace](https://www.makerspaces.com/what-is-a-makerspace/). I collect new hobbies as my hobby so it is a good fit 😄
+In my free time I collect hobbies and build things.
